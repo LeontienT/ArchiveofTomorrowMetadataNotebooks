@@ -1,0 +1,3 @@
+The two Notebooks within this repository were created for the derived metadata dataset from the AoT project.
+Both of these Notebooks explore different aspects of the dataset and are meant as a first step in looking and understanding what is in them.
+To make these Notebooks work the 4028.JSON file from the AoT project is needed. Also, the paths within the Notebooks need to be changed to local paths pointing to the dataset.
